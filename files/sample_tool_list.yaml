@@ -9,3 +9,7 @@ tools:
   tool_panel_section_id: 'convert'
   revisions:
   - '0b4e36026794'  # v1.1.0
+- name: 'alvis_rep'
+  owner: 'moba'
+  tool_panel_section_id: 'alvisnlp'
+  tool_shed_url: https://toolshed.g2.bx.psu.edu 
